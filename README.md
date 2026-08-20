@@ -7,7 +7,7 @@
 
 - **Graduate teaching assistant:** Rujuta Vaidya (<rvaidy2@lsu.edu>)
 - **TA office hours:** 496 OLOH Interdisciplinary Science Building, [Book a time][T1]
-- **Moodle:** [moodle.lsu.edu](https://moodle.lsu.edu)
+- **Moodle:** [moodle.lsu.edu][1]
 
 *For any other meeting times, please email.*
 
