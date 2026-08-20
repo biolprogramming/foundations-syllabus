@@ -3,7 +3,7 @@
 - BIOL 2601 / 7800 • Louisiana State University • Fall 2026
 - **Time / Location:** T/Th, 12:00 – 1:20 PM, 0124 Tureaud Hall
 - **Instructor:** Brant Faircloth (<brant@lsu.edu>), Moreland Family Professor
-- **Instructor office hours:** 492 OLOH Interdisciplinaty Science Building, [Book a time][T1]
+- **Instructor office hours:** 492 OLOH Interdisciplinary Science Building, [Book a time][T1]
 
 - **Graduate teaching assistant:** Rujuta Vaidya (<rvaidy2@lsu.edu>)
 - **TA office hours:** 496 OLOH Interdisciplinary Science Building, [Book a time][T1]
@@ -11,8 +11,7 @@
 
 *For any other meeting times, please email.*
 
-[T1]: https://outlook.office.com/bookwithme/user/5cc4e2c48d87417a8daa62f85a06bc96@lsu.edu/meetingtype/fBe4RccB6kuEA6usCSr0eg2?bookingcode=2d56917f-ab03-45ba-a228-b30f82e2f6e5&anonymous&ismsaljsauthenabled&ep=mLinkFromTile
-[T2]: https://
+[T1]: https://moodle.lsu.edu/course/section.php?id=1073529
 
 # **Course Description**
 
@@ -104,7 +103,7 @@ This is the official Python language documentation. It tells you how the languag
 
 ## **BioPython Documentation**
 
-- [biopython.org/wiki/Documentatio](https://biopython.org/wiki/Documentation)
+- [biopython.org/wiki/Documentation](https://biopython.org/wiki/Documentation)
 
 BioPython is a module for Python that enables biologists to work more easily with different sequence data formats (sequences, alignments, etc.) from within Python. Very commonly used for various bioinformatic analyses.
 
@@ -120,7 +119,7 @@ Polars is a module for Python that basically introduces data frames to the Pytho
 
 Plotnine is a module for Python that introduces data frames to the Python language. In some senses, Polars R-ifies Python and lets you work with data frames much in the way you would using R.
 
-# ** **GitHub, and GitHub Codespaces**
+# **GitHub, and GitHub Codespaces**
 
 As we did the last time I taught this class, we’ll (mostly) be using an online development environment that is part of [GitHub](https://github.com/). GitHub provides a number of services, but what it is mostly known for is the fact that it helps you manage source code. This means that it helps you keep track of changes, revert changes, add improvements, make software releases, etc. It does **VERY** many other things. Because [GitHub](https://github.com/) is powerful, it can also be pretty confusing.
 
