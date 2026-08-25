@@ -140,7 +140,7 @@ In accordance with the LSU grading policy, grades will be assigned using an A–
 
 | **Item** | **Points** | **\# of assignments** | **Total points** | **% of grade** |
 |:---|:---|:---|:---|:---|
-| Class assignments | 25 each | 10 | 250 | 45% |
+| Class assignments | 25 each | 10 | 250 | 50% |
 | Exam 1 | 50 | - | 50 | 10% |
 | Exam 2 | 75 | - | 75 | 15% |
 | Exam 3 (Final) | 125 | - | 125 | 25% |
