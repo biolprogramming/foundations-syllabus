@@ -234,7 +234,7 @@ I do not typically write recommendation letters for students in this class – e
 | 06 | 15 Sep | CLI: More Loops, Conditionals (notes in CS) |  |  |
 | 07 | 17 Sep | CLI: Flow, Conditional Statements (notes in CS) |  | Homework 3 |
 | 08 | 22 Sep | CLI: SED, AWK, Others (notes in CS) |  |  |
-| 09 | 24 Sep | Regular Expressions [09s]|  |  Homework 4 |
+| 09 | 24 Sep | [Regular Expressions][09s]|  |  Homework 4 |
 | 10 | 29 Sep | Section 1 – Review, Questions, Practice, etc. |  |  |
 | — | 01 Oct | ***Exam 1 – In class. On paper.*** |  |  |
 | — | 06 Oct | No Class – BCF at conference. |  |  |
