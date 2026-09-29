@@ -238,9 +238,9 @@ I do not typically write recommendation letters for students in this class – e
 | 10 | 29 Sep | Section 1 – Review, Questions, Practice, etc. |  |  |
 | — | 01 Oct | ***Exam 1 – In class. On paper.*** |  |  |
 | — | 06 Oct | No Class – BCF at conference. |  |  |
-| — | 08 Oct | No Class – Fall Break |  |  |
+| — | 08 Oct | No Class – Fall Break |  | Homework 5 |
 | 11 | 13 Oct | Python: Variables & Expressions| HTLCS [1][11r1] & [2][11r2] |  |
-| 12 | 15 Oct | Python: Functions Part 1 | HTLCS [3][12r1] | Homework 5 |
+| 12 | 15 Oct | Python: Functions Part 1 | HTLCS [3][12r1] | |
 | 13 | 20 Oct | Python: Conditional Statements | HTLCS [5][13r1] |  |
 | 14 | 22 Oct | Python: Functions Part 2 | HTLCS [6][14r1] | Homework 6 |
 | 15 | 27 Oct | Python: Iteration | HTLCS [7][15r1] |  |
