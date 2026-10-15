@@ -260,7 +260,7 @@ I do not typically write recommendation letters for students in this class – e
 [00s]: https://www.dropbox.com/scl/fi/r03cnf78ksswit0auu0n4/00-intro-os-and-filesystems.pdf?rlkey=ti38hx93i2ozlgqob75z5gw9f&st=i7w5kj1k&dl=0
 [01s]: https://www.dropbox.com/scl/fi/w1ew6bm4l7tl5rhvj0k0k/01-filesystems-and-commandline.pdf?rlkey=8ixc3imkre98ifpnphby4b091&st=eev4wau4&dl=0
 [09s]: https://www.dropbox.com/scl/fi/5vz355ant0vqk6za9iheg/09-regular-expressions.pdf?rlkey=sy8n7wlxh719k4iplc3x11asg&st=m7ndi2up&dl=0
-[10s]: https://www.dropbox.com/scl/fi/2nht5ia4lf6hcsrj9iumw/10-python-intro.pdf?rlkey=lto31qro80p5yffbdxtx8wx4z&st=w2iv7scr&dl=0
+[10s]: https://www.dropbox.com/scl/fi/2nht5ia4lf6hcsrj9iumw/11-python-intro.pdf?rlkey=lto31qro80p5yffbdxtx8wx4z&st=qzc7x22o&dl=0
 
 [11r1]: https://www.greenteapress.com/thinkpython2/html/thinkpython2002.html
 [11r2]: https://www.greenteapress.com/thinkpython2/html/thinkpython2003.html
