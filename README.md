@@ -239,8 +239,8 @@ I do not typically write recommendation letters for students in this class – e
 | — | 01 Oct | ***Exam 1 – In class. On paper.*** |  |  |
 | — | 06 Oct | No Class – BCF at conference. |  |  |
 | — | 08 Oct | No Class – Fall Break |  | |
-| 11 | 13 Oct | [Python: Variables & Expressions][10s]| HTLCS [1][11r1] & [2][11r2] |  |
-| 12 | 15 Oct | Python: Functions Part 1 | HTLCS [3][12r1] | Homework 5 |
+| 11 | 13 Oct | [Python: Variables & Expressions][11s]| HTLCS [1][11r1] & [2][11r2] |  |
+| 12 | 15 Oct | [Python: Functions Part 1][12s] | HTLCS [3][12r1] | Homework 5 |
 | 13 | 20 Oct | Python: Conditional Statements | HTLCS [5][13r1] |  |
 | 14 | 22 Oct | Python: Functions Part 2 | HTLCS [6][14r1] | Homework 6 |
 | 15 | 27 Oct | Python: Iteration | HTLCS [7][15r1] |  |
@@ -260,7 +260,8 @@ I do not typically write recommendation letters for students in this class – e
 [00s]: https://www.dropbox.com/scl/fi/r03cnf78ksswit0auu0n4/00-intro-os-and-filesystems.pdf?rlkey=ti38hx93i2ozlgqob75z5gw9f&st=i7w5kj1k&dl=0
 [01s]: https://www.dropbox.com/scl/fi/w1ew6bm4l7tl5rhvj0k0k/01-filesystems-and-commandline.pdf?rlkey=8ixc3imkre98ifpnphby4b091&st=eev4wau4&dl=0
 [09s]: https://www.dropbox.com/scl/fi/5vz355ant0vqk6za9iheg/09-regular-expressions.pdf?rlkey=sy8n7wlxh719k4iplc3x11asg&st=m7ndi2up&dl=0
-[10s]: https://www.dropbox.com/scl/fi/2nht5ia4lf6hcsrj9iumw/11-python-intro.pdf?rlkey=lto31qro80p5yffbdxtx8wx4z&st=qzc7x22o&dl=0
+[11s]: https://www.dropbox.com/scl/fi/2nht5ia4lf6hcsrj9iumw/11-python-intro.pdf?rlkey=lto31qro80p5yffbdxtx8wx4z&st=qzc7x22o&dl=0
+[12s]: https://www.dropbox.com/scl/fi/fa4efsg44131n659u6k2k/12-python-functions.pdf?rlkey=lpa9wojfk95hylihacscxdzf3&st=ae4paeif&dl=0
 
 [11r1]: https://www.greenteapress.com/thinkpython2/html/thinkpython2002.html
 [11r2]: https://www.greenteapress.com/thinkpython2/html/thinkpython2003.html
