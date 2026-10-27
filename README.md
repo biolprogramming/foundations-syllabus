@@ -243,7 +243,7 @@ I do not typically write recommendation letters for students in this class – e
 | 12 | 15 Oct | [Python: Functions Part 1][12s] | HTLCS [3][12r1] | Homework 5 |
 | 13 | 20 Oct | [Python: Conditional Statements][13s] | HTLCS [5][13r1] |  |
 | 14 | 22 Oct | [Python: Functions Part 2][14s] | HTLCS [6][14r1] | Homework 6 |
-| 15 | 27 Oct | Python: Iteration | HTLCS [7][15r1] |  |
+| 15 | 27 Oct | [Python: Iteration][15s] | HTLCS [7][15r1] |  |
 | 16 | 29 Oct | Python: Strings and Lists | HTLCS [8][16r1] & [10][16r2] | Homework 7 |
 | 17 | 03 Nov | Python: Dictionaries and Tuples | HTLCS [11][17r1] & [12][17r2] |  |
 | 18 | 05 Nov | Section 2 – Review, Questions, Practice, etc. |  | Homework 8 |
@@ -264,6 +264,7 @@ I do not typically write recommendation letters for students in this class – e
 [12s]: https://www.dropbox.com/scl/fi/fa4efsg44131n659u6k2k/12-python-functions.pdf?rlkey=lpa9wojfk95hylihacscxdzf3&st=ae4paeif&dl=0
 [13s]: https://www.dropbox.com/scl/fi/tzftmt2hk4m3lautjcpyy/13-python-conditionals.pdf?rlkey=y1c2z9m6r2f6d8vkn44xpdbpd&st=30oe0z5l&dl=0
 [14s]: https://www.dropbox.com/scl/fi/56ye2u0sw14vix7tlljii/14-python-functions-2.pdf?rlkey=trbd963oz01sdrn3b0wcxoubg&st=la41cec5&dl=0
+[15s]: https://www.dropbox.com/scl/fi/nbr6k4hjc8gavtp6hcnyx/15-python-iteration.pdf?rlkey=0ar08lau7ss38uczvhgk4nub0&st=q8yazwto&dl=0
 
 [11r1]: https://www.greenteapress.com/thinkpython2/html/thinkpython2002.html
 [11r2]: https://www.greenteapress.com/thinkpython2/html/thinkpython2003.html
