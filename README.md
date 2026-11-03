@@ -245,7 +245,7 @@ I do not typically write recommendation letters for students in this class – e
 | 14 | 22 Oct | [Python: Functions Part 2][14s] | HTLCS [6][14r1] | Homework 6 |
 | 15 | 27 Oct | [Python: Iteration][15s] | HTLCS [7][15r1] |  |
 | 16 | 29 Oct | [Python: Strings and Lists][16s] | HTLCS [8][16r1] & [10][16r2] | Homework 7 |
-| 17 | 03 Nov | Python: Dictionaries and Tuples | HTLCS [11][17r1] & [12][17r2] |  |
+| 17 | 03 Nov | [Python: Dictionaries and Tuples][17s] | HTLCS [11][17r1] & [12][17r2] |  |
 | 18 | 05 Nov | Section 2 – Review, Questions, Practice, etc. |  | Homework 8 |
 | — | 10 Nov | ***Exam 2 – In class. On paper.*** |  |  |
 | 19 | 12 Nov | Python: Getting Stuff In and Out |  | |
@@ -266,6 +266,7 @@ I do not typically write recommendation letters for students in this class – e
 [14s]: https://www.dropbox.com/scl/fi/56ye2u0sw14vix7tlljii/14-python-functions-2.pdf?rlkey=trbd963oz01sdrn3b0wcxoubg&st=la41cec5&dl=0
 [15s]: https://www.dropbox.com/scl/fi/nbr6k4hjc8gavtp6hcnyx/15-python-iteration.pdf?rlkey=0ar08lau7ss38uczvhgk4nub0&st=q8yazwto&dl=0
 [16s]: https://www.dropbox.com/scl/fi/jc7oli5oag65qhw4tzvmp/16-python-strings-lists.pdf?rlkey=ls56ueds1s1bmfqid32gm1ggv&st=5zah4m7b&dl=0
+[17s]: https://www.dropbox.com/scl/fi/73rjabky877c57pscjuhk/17-python-dictionaries-tuples.pdf?rlkey=77m9g9ytcyzpbnpqwbyy2x50d&st=5cgzf5lc&dl=0
 
 [11r1]: https://www.greenteapress.com/thinkpython2/html/thinkpython2002.html
 [11r2]: https://www.greenteapress.com/thinkpython2/html/thinkpython2003.html
