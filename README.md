@@ -248,7 +248,7 @@ I do not typically write recommendation letters for students in this class – e
 | 17 | 03 Nov | [Python: Dictionaries and Tuples][17s] | HTLCS [11][17r1] & [12][17r2] |  |
 | 18 | 05 Nov | Section 2 – Review, Questions, Practice, etc. |  | Homework 8 |
 | — | 10 Nov | ***Exam 2 – In class. On paper.*** |  |  |
-| 19 | 12 Nov | Python: [Getting Stuff In and Out][18s] |  | |
+| 19 | 12 Nov | [Python: Getting Stuff In and Out][18s] |  | |
 | 20 | 17 Nov | Python: File Operations | HTLCS [14][20r1] |  |
 | 21 | 19 Nov | Python: The Kitchen Sink |  | Homework 9 |
 | 22 | 24 Nov | Python: Modules, Biopython | Biopython |  |
