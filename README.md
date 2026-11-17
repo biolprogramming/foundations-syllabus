@@ -249,7 +249,7 @@ I do not typically write recommendation letters for students in this class – e
 | 18 | 05 Nov | Section 2 – Review, Questions, Practice, etc. |  | Homework 8 |
 | — | 10 Nov | ***Exam 2 – In class. On paper.*** |  |  |
 | 19 | 12 Nov | [Python: Getting Stuff In and Out][18s] |  | |
-| 20 | 17 Nov | Python: File Operations | HTLCS [14][20r1] |  |
+| 20 | 17 Nov | [Python: File Operations][19s] | HTLCS [14][20r1] |  |
 | 21 | 19 Nov | Python: The Kitchen Sink |  | Homework 9 |
 | 22 | 24 Nov | Python: Modules, Biopython | Biopython |  |
 | — | 26 Nov | No Class – Thanksgiving Holiday |  |  |
@@ -268,6 +268,7 @@ I do not typically write recommendation letters for students in this class – e
 [16s]: https://www.dropbox.com/scl/fi/jc7oli5oag65qhw4tzvmp/16-python-strings-lists.pdf?rlkey=ls56ueds1s1bmfqid32gm1ggv&st=5zah4m7b&dl=0
 [17s]: https://www.dropbox.com/scl/fi/73rjabky877c57pscjuhk/17-python-dictionaries-tuples.pdf?rlkey=77m9g9ytcyzpbnpqwbyy2x50d&st=5cgzf5lc&dl=0
 [18s]: https://www.dropbox.com/scl/fi/adrafjn32bfdbkxc61i9g/18-python-getting-stuff-in-and-out.pdf?rlkey=9mof1ei2rmwgd6buku3oikhah&st=b6zarwuk&dl=0
+[19s]: https://www.dropbox.com/scl/fi/ryr7kbruu6dtxmobprnm4/19-python-file-operations.pdf?rlkey=ndegb8paitx8228mci3orlnby&st=24atqljq&dl=0
 
 [11r1]: https://www.greenteapress.com/thinkpython2/html/thinkpython2002.html
 [11r2]: https://www.greenteapress.com/thinkpython2/html/thinkpython2003.html
