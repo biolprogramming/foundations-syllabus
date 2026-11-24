@@ -251,7 +251,7 @@ I do not typically write recommendation letters for students in this class – e
 | 19 | 12 Nov | [Python: Getting Stuff In and Out][18s] |  | |
 | 20 | 17 Nov | [Python: File Operations][19s] | HTLCS [14][20r1] |  |
 | 21 | 19 Nov | [Python: The Kitchen Sink][21s] |  | Homework 9 |
-| 22 | 24 Nov | Python: Modules, Biopython | Biopython |  |
+| 22 | 24 Nov | [Python: Modules, Biopython] | Biopython |  |
 | — | 26 Nov | No Class – Thanksgiving Holiday |  |  |
 | 23 | 01 Dec | Python: Modules, Polars|  Polars |  |
 | 24 | 03 Dec | Python: Modules, Plotnine |  | Homework 10 - Bonus |
@@ -270,6 +270,7 @@ I do not typically write recommendation letters for students in this class – e
 [19s]: https://www.dropbox.com/scl/fi/adrafjn32bfdbkxc61i9g/19-python-getting-stuff-in-and-out.pdf?rlkey=9mof1ei2rmwgd6buku3oikhah&st=b6zarwuk&dl=0
 [20s]: https://www.dropbox.com/scl/fi/ryr7kbruu6dtxmobprnm4/20-python-file-operations.pdf?rlkey=ndegb8paitx8228mci3orlnby&st=24atqljq&dl=0
 [21s]: https://www.dropbox.com/scl/fi/eg811ftd2z2usdsmzs3dz/21-python-kitchen-sink.pdf?rlkey=w8ymp1v16ui7vpjf6ejw1cwge&st=v0dx8nio&dl=0
+[22s]: https://www.dropbox.com/scl/fi/7f5ll9anpbd0m4mpd24t2/22-python-biopython-1.pdf?rlkey=u456dnystfz5wolxelcj3m9qj&st=4jq3q9rt&dl=0
 
 [11r1]: https://www.greenteapress.com/thinkpython2/html/thinkpython2002.html
 [11r2]: https://www.greenteapress.com/thinkpython2/html/thinkpython2003.html
