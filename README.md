@@ -251,7 +251,7 @@ I do not typically write recommendation letters for students in this class – e
 | 19 | 12 Nov | [Python: Getting Stuff In and Out][18s] |  | |
 | 20 | 17 Nov | [Python: File Operations][19s] | HTLCS [14][20r1] |  |
 | 21 | 19 Nov | [Python: The Kitchen Sink][21s] |  | Homework 9 |
-| 22 | 24 Nov | [Python: Modules, Biopython] | Biopython |  |
+| 22 | 24 Nov | [Python: Modules, Biopython][22s] | Biopython |  |
 | — | 26 Nov | No Class – Thanksgiving Holiday |  |  |
 | 23 | 01 Dec | Python: Modules, Polars|  Polars |  |
 | 24 | 03 Dec | Python: Modules, Plotnine |  | Homework 10 - Bonus |
